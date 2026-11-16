@@ -1,0 +1,8 @@
+*.o
+main
+test_vector
+test_tied.txt
+test_zero_period.txt
+test_comma.txt
+__pycache__/
+test_data_50lines.txt
